@@ -29,4 +29,4 @@ Features a clean UI, smooth layout adjustments, and integration with **Font Awes
 - **Landscape Mode** – Works smoothly in rotated views.
 
 ## 🌐 Live Demo
-[View Live Site](https://guy-biton.github.io/Bono-App/)
+[View Live Site][(https://guy-biton.github.io/Bono-App/)](https://guy-biton.github.io/Bono-App/BonoProject/)
