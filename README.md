@@ -27,3 +27,6 @@ Features a clean UI, smooth layout adjustments, and integration with **Font Awes
 - **Mobile Friendly** – Scales content for smaller screens without losing clarity.
 - **Tablet Support** – Optimized layouts for mid-size devices.
 - **Landscape Mode** – Works smoothly in rotated views.
+
+## 🌐 Live Demo
+[View Live Site](https://guy-biton.github.io/Bono-App/)
