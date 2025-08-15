@@ -23,11 +23,11 @@ Designed to adapt seamlessly to **iPhones, iPads, desktops, and landscape orient
 - **Landscape Ready** – Works smoothly in rotated views.
 
 ## 📂 Project Structure
-project/
+Bono-App/
 │── index.html
 │── css/
-│   └── style.css
+│ └── style.css
 │── images/
-│   ├── background.jpg
-│   ├── favicon.png
-│   └── logo.svg
+│ ├── background.jpg
+│ ├── favicon.png
+│ └── logo.svg
