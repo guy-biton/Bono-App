@@ -5,7 +5,7 @@ Features a clean UI, smooth layout adjustments, and integration with **Font Awes
 
 ---
 
-## ✨ Features
+##  Features
 - **Fully Responsive Design** – Optimized for mobile, tablet, and desktop screens.
 - **Clean, Minimalist UI** – Professional gradient background and modern typography.
 - **Font Awesome Integration** – Easily recognizable and stylish icons.
@@ -15,7 +15,7 @@ Features a clean UI, smooth layout adjustments, and integration with **Font Awes
 
 ---
 
-## 🖥️ Technologies Used
+##  Technologies Used
 - **HTML5** – Semantic, accessible markup.
 - **CSS3** – Advanced styling with media queries for responsiveness.
 - **Font Awesome** – Icon library for social and contact details.
@@ -23,7 +23,7 @@ Features a clean UI, smooth layout adjustments, and integration with **Font Awes
 
 ---
 
-## 📱 Responsive Behavior
+##  Responsive Behavior
 - **Mobile Friendly** – Scales content for smaller screens without losing clarity.
 - **Tablet Support** – Optimized layouts for mid-size devices.
 - **Landscape Mode** – Works smoothly in rotated views.
